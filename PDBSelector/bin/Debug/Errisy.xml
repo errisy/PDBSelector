@@ -1,0 +1,440 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Errisy
+</name>
+</assembly>
+<members>
+<member name="T:Errisy.AddButton">
+<summary>
+AddButton
+</summary>
+</member>
+<member name="M:Errisy.AddButton.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.BriefButton">
+<summary>
+BriefButton
+</summary>
+</member>
+<member name="M:Errisy.BriefButton.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.CircleButton">
+<summary>
+CircleButton
+</summary>
+</member>
+<member name="M:Errisy.CircleButton.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.ExpanderButton">
+<summary>
+ExpanderButton
+</summary>
+</member>
+<member name="M:Errisy.ExpanderButton.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.RemoveButton">
+<summary>
+RemoveButton
+</summary>
+</member>
+<member name="M:Errisy.RemoveButton.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.CanvasItemsControl">
+<summary>
+CanvasItemsControl
+</summary>
+</member>
+<member name="M:Errisy.CanvasItemsControl.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.DirectCanvasItemsControl">
+<summary>
+DirectCanvasItemsControl
+</summary>
+</member>
+<member name="M:Errisy.DirectCanvasItemsControl.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.ColorToggleButton">
+<summary>
+ColorToggleButton
+</summary>
+</member>
+<member name="M:Errisy.ColorToggleButton.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.RoundTabItem">
+<summary>
+RoundTabItem
+</summary>
+</member>
+<member name="M:Errisy.RoundTabItem.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="F:Errisy.DirectItemsControl.loadedTemplate">
+ <summary>
+ 加载的ControlTemplate
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:Errisy.DirectItemsControl.loadedItemsPresenter">
+ <summary>
+ 用于加载Panel
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Errisy.ItemGenerator.GetViewForItem(System.Object@)">
+ <summary>
+ 由于Virtualization，不保证View一定会存在。
+ </summary>
+ <param name="item"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="T:Errisy.DownloadProgressImage">
+<summary>
+DownloadProgressImage
+</summary>
+</member>
+<member name="M:Errisy.DownloadProgressImage.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.BriefComboBox">
+<summary>
+BriefComboBox
+</summary>
+</member>
+<member name="M:Errisy.BriefComboBox.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.EnumEditor">
+<summary>
+EnumEditor
+</summary>
+</member>
+<member name="M:Errisy.EnumEditor.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.Resizer">
+<summary>
+Resizer
+</summary>
+</member>
+<member name="M:Errisy.Resizer.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.Expander">
+<summary>
+Expander
+</summary>
+</member>
+<member name="M:Errisy.Expander.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.ImageView">
+<summary>
+ImageView
+</summary>
+</member>
+<member name="M:Errisy.ImageView.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.MultipleCanvasItemsControl">
+<summary>
+MultipleCanvasItemsControl
+</summary>
+</member>
+<member name="M:Errisy.MultipleCanvasItemsControl.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="F:Errisy.MultipleItemsControl.loadedTemplate">
+ <summary>
+ 加载的ControlTemplate
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:Errisy.MultipleItemsControl.loadedItemsPresenter">
+ <summary>
+ 用于加载Panel
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:Errisy.ClosableItemPresenter">
+<summary>
+ClosableItemPresenter
+</summary>
+</member>
+<member name="M:Errisy.ClosableItemPresenter.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.MultipleItemBox">
+<summary>
+MultipleItemBox
+</summary>
+</member>
+<member name="M:Errisy.MultipleItemBox.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="F:Errisy.MultipleWordBox.loadedTemplate">
+ <summary>
+ 加载的ControlTemplate
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:Errisy.MultipleWordBox.loadedItemsPresenter">
+ <summary>
+ 用于加载Panel
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:Errisy.VisualPage">
+<summary>
+VisualPage
+</summary>
+</member>
+<member name="M:Errisy.VisualPage.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.PrintPreviewDialog">
+<summary>
+PrintPreviewDialog
+</summary>
+</member>
+<member name="M:Errisy.PrintPreviewDialog.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.ProgressNode">
+<summary>
+ProgressNode
+</summary>
+</member>
+<member name="M:Errisy.ProgressNode.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.MultipleValueBox">
+<summary>
+MultipleValueBox
+</summary>
+</member>
+<member name="M:Errisy.MultipleValueBox.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.ClosableTabControl">
+ <summary>
+ 默认情况下用ClosableTabItem作为包装单位的TabControl
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Errisy.ClosableTabControl.OnItemsChanged(System.Collections.Specialized.NotifyCollectionChangedEventArgs)">
+ <summary>
+ This enables the TabControl to automatically select and present the newly added tabitem.
+ </summary>
+ <param name="e"></param>
+</member>
+<member name="M:Errisy.ClosableTabItem.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.CloseButton">
+<summary>
+CloseButton
+</summary>
+</member>
+<member name="M:Errisy.CloseButton.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.EditableLabel">
+<summary>
+EditableLabel
+</summary>
+</member>
+<member name="M:Errisy.EditableLabel.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.CodeExpresser">
+<summary>
+CodeExpresser
+</summary>
+</member>
+<member name="M:Errisy.CodeExpresser.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.LabelTextBox">
+<summary>
+LabelTextBox
+</summary>
+</member>
+<member name="M:Errisy.LabelTextBox.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.CheckTick">
+<summary>
+CheckTick
+</summary>
+</member>
+<member name="M:Errisy.CheckTick.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.TickBox">
+<summary>
+TickBox
+</summary>
+</member>
+<member name="M:Errisy.TickBox.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.TickToggleButton">
+<summary>
+TickToggleButton
+</summary>
+</member>
+<member name="M:Errisy.TickToggleButton.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Errisy.AllocationViewModel">
+ <summary>
+ AllocationViewModel是提供图形布局和绘制的ViewModel
+ </summary>
+ <remarks>AllocationViewModel是提供图形布局和绘制的ViewModel，用于在原类型和图形之间实现布局逻辑和鼠标事件。</remarks>
+</member>
+<member name="T:Errisy.GeometryAllocator">
+ <summary>
+ 利用Geometry的填充性对AllocationViewModel进行非重叠性的布局测试
+ </summary>
+ <remarks>向GeometryAllocator添加Geometry之后，GeometryAllocator会对所有的Geometry进行合并。
+ 然后可以对新加入的Geometry进行IntersectsWith测试，如果结果为True，说明新加入的Geometry跟已有的Geometry有重叠。</remarks>
+</member>
+<member name="P:Errisy.IncludableElement.Visuals">
+ <summary>
+ Inherited Classes must use this property to add or remove DrawingVisuals.
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="T:Errisy.VisualContainerPanel">
+ <summary>
+ 将子对象当中的IncludableElement中的Visual抽取到控件自身的VisualCollection当中，从在Panel控件当中直接承载子控件的Visuals。
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:Errisy.ContainerPanel">
+ <summary>
+ 对内含对象不进行任何布局、将全部AvailableSize提供给子对象的Panel
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:Errisy.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Errisy.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Errisy.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Errisy.XamlGeneratedNamespace.GeneratedInternalTypeHelper">
+<summary>
+GeneratedInternalTypeHelper
+</summary>
+</member>
+<member name="M:Errisy.XamlGeneratedNamespace.GeneratedInternalTypeHelper.CreateInstance(System.Type,System.Globalization.CultureInfo)">
+<summary>
+CreateInstance
+</summary>
+</member>
+<member name="M:Errisy.XamlGeneratedNamespace.GeneratedInternalTypeHelper.GetPropertyValue(System.Reflection.PropertyInfo,System.Object,System.Globalization.CultureInfo)">
+<summary>
+GetPropertyValue
+</summary>
+</member>
+<member name="M:Errisy.XamlGeneratedNamespace.GeneratedInternalTypeHelper.SetPropertyValue(System.Reflection.PropertyInfo,System.Object,System.Object,System.Globalization.CultureInfo)">
+<summary>
+SetPropertyValue
+</summary>
+</member>
+<member name="M:Errisy.XamlGeneratedNamespace.GeneratedInternalTypeHelper.CreateDelegate(System.Type,System.Object,System.String)">
+<summary>
+CreateDelegate
+</summary>
+</member>
+<member name="M:Errisy.XamlGeneratedNamespace.GeneratedInternalTypeHelper.AddEventHandler(System.Reflection.EventInfo,System.Object,System.Delegate)">
+<summary>
+AddEventHandler
+</summary>
+</member>
+</members>
+</doc>
